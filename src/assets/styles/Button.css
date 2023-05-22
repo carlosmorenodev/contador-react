@@ -1,0 +1,13 @@
+button {
+    background-color: blueviolet;
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    border: none;
+    font-size: 25px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: rgb(167, 85, 243);
+}
